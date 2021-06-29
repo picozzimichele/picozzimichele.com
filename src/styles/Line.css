@@ -1,0 +1,5 @@
+.dotted {
+    border-bottom: 1px dotted #FF0200;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}

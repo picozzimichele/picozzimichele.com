@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.picozzimichele.com/</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+    <url>
+
+      <loc>http://www.picozzimichele.com/about</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+    <url>
+
+      <loc>http://www.picozzimichele.com/about/</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+    <url>
+
+      <loc>http://www.picozzimichele.com/projects/</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+    <url>
+
+      <loc>http://www.picozzimichele.com/contacts/</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+    <url>
+
+      <loc>http://www.picozzimichele.com/blog/</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+    <url>
+
+      <loc>http://www.picozzimichele.com/borderless</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+   <url>
+
+      <loc>http://www.picozzimichele.com/monterosa</loc>
+
+      <lastmod>2020-10-07</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+   <url>
+
+      <loc>http://www.picozzimichele.com/portugalsurf</loc>
+
+      <lastmod>2020-10-08</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+</urlset> 

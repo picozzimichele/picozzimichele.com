@@ -1,0 +1,51 @@
+
+/* image grid style */
+
+  .img-grid-container {
+    width: auto;
+    columns: 4;
+    column-gap: 12px;
+    padding-bottom: 20px;
+    transition: all 0.3s linear;
+  }
+
+  .img-grid-container .img-wrap-box {
+    width: 100%;
+    margin: 0 0 6px;
+    padding: 0;
+    overflow: hidden;
+    break-inside: avoid;
+    transition: all 0.3s linear;
+  }
+
+  .img-wrap-box img {
+    max-width: 100%;
+  }
+
+  .img-wrap-box:hover {
+    transform: scale(1.03);
+  }
+
+  /* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 1200px) {
+  .img-grid-container {
+    columns: 3;
+    width: auto;
+    box-sizing: border-box;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 768px) {
+  .img-grid-container{
+    columns: 2;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .img-grid-container{
+    columns: 1;
+  }
+}
+
+/* Hover Color #dfddc5 */

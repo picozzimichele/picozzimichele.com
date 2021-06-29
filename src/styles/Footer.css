@@ -1,0 +1,141 @@
+.footer-container {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.box {
+    background-color: black;
+    width: auto;
+    height: 300px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.box h1 {
+    color: #F26447;
+}
+
+.margin {
+    padding: 20px;
+}
+
+/* Font Size adjustments */
+
+.copyright {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.privacy {
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+.signup {
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+
+/* Footer menu icon */
+
+.social-menu {
+    margin-top: 30px;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.social-menu ul {
+    padding: 0;
+    margin-left: 0;
+    display: flex;
+    
+}
+
+.social-menu ul li {
+    list-style: none;
+    margin-left: 10px;
+}
+
+.social-menu ul li .fa {
+    font-size: 25px;
+    color: #1F1F1F;
+}
+
+.social-menu ul li a {
+    display: block;
+}
+
+.social-menu ul li .fa:hover {
+    color: #C4A13F
+}
+
+/* email style */
+
+.email {
+
+    border: none;
+    font-size: 15px;
+    font-family: 'PT Serif', serif;
+    padding: 15px 32px;
+    text-align: left;
+}
+
+.email:focus {outline:0;}
+
+.email-button {
+
+    background-color: #F26447;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 15px 32px;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: 'PT Serif', serif;
+    transition-duration: 0.4s;
+}
+
+.email-button:hover {
+    background-color: #C25039;
+    color: white;
+  }
+
+.email-button:focus {outline:0;}
+
+
+
+  @media screen and (max-width: 575.98px) { 
+    .email-button {
+        margin-top: 15px;
+    }
+
+    .box {
+        height: 400px;
+    }
+  }
+
+  /* Small devices (landscape phones, less than 768px) */
+  @media screen and (max-width: 767.98px) { 
+    .email-button {
+        margin-top: 15px;
+    }
+
+    .box {
+        height: 400px;
+    }
+  }
+  
+  /* Medium devices (tablets, less than 992px) */
+  @media screen and (max-width: 991.98px) {
+
+   }
+  
+  /* Large devices (desktops, less than 1200px) */
+  @media screen and (max-width: 1199.98px) {
+
+   }

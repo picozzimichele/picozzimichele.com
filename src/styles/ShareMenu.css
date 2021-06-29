@@ -1,0 +1,43 @@
+/* Share Button */
+
+.share-btn-container {
+    display: flex;
+    text-align: right;
+    align-items: flex-end;
+    float: right;
+}
+
+.share-btn-container a i {
+    font-size: 20px;
+    color: black;
+}
+
+.share-btn-container a {
+    margin: 12px;
+    transition: 500ms;
+}
+
+.share-btn-container a:hover {
+    transform: scale(1.2)
+}
+
+/* Small Phones */
+@media screen and (max-width: 575.98px) { 
+
+    .share-btn-container {
+      transform: unset;
+      top: unset;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      margin-bottom: 30px;
+      flex-direction: row;
+      padding: 16px 0;
+      justify-content: center;
+    }
+
+    .share-btn-container a {
+        margin: 0 32px;
+    }
+    
+  }

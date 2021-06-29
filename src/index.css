@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'PT Serif', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul li { 
+  font-family: 'Source Sans Pro', sans-serif;
+ }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+

@@ -1,0 +1,20 @@
+.header {
+    width: 100%;
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.headerPic {
+    display: inline-block;
+    width: 140px;
+    height: 140px;
+    background: #E6E7ED;
+    -moz-border-radius: 140px;
+    -webkit-border-radius: 140px;    
+    text-align:center;
+}
+
+.headerPic img{
+    margin-top:7px;
+}

@@ -1,0 +1,43 @@
+
+.line{
+    border-bottom: 1px solid #BBBBBB;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contact {
+    align-items: left; 
+    justify-content: left; 
+    height: 100%;
+    width: 50%;
+    font-size: 14px;
+}
+
+.contact h1 {
+    color: #F26447;
+    font-size: 21px;
+}
+
+.email-link {
+    color: #F26447
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.space {
+    padding: 20px
+}
+
+/* Phone Screens */
+
+@media screen and (max-width: 575.98px) { 
+    .contact {
+        align-items: left; 
+        justify-content: left; 
+        height: 100%;
+        width: 90%;
+        font-size: 14px;
+    }
+  }
