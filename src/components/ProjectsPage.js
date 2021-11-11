@@ -12,7 +12,7 @@ const ProjectPage = () => {
         {
             link: "https://airbnb-clone-ten-omega.vercel.app/",
             text: "Airbnb Style Website",
-            src: "Airbnb.jpg"
+            src: "/images/airbnb.jpg"
         },
         {
             link: "/",
