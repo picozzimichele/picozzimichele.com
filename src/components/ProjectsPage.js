@@ -10,6 +10,11 @@ const ProjectPage = () => {
             src: "/images/netflix-clone.jpg"
         },
         {
+            link: "https://airbnb-clone-ten-omega.vercel.app/",
+            text: "Airbnb Style Website",
+            src: "Airbnb.jpg"
+        },
+        {
             link: "/",
             text: "Personal Website",
             src: "/images/picozzimichele.jpg"
