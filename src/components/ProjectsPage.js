@@ -25,7 +25,7 @@ const ProjectPage = () => {
             src: "/images/doodlejump.jpg"
         },
         {
-            link: "https://instagram-80a2f.web.app/",
+            link: "https://social-sdk-237d6.web.app/",
             text: "Photo Sharing App",
             src: "/images/instagram.png"
         },
