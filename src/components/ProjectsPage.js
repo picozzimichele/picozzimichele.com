@@ -15,6 +15,11 @@ const ProjectPage = () => {
             src: "/images/airbnb.jpg"
         },
         {
+            link: "https://metamask-button-1g4mx14dl-picozzimichele.vercel.app/",
+            text: "Metamask Connect",
+            src: "/images/metamask.jpg"
+        },
+        {
             link: "/",
             text: "Personal Website",
             src: "/images/picozzimichele.jpg"
